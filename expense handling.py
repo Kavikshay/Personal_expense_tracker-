@@ -126,6 +126,6 @@ while True:
 					file.write(f"item name : {j['item name']}\n")
 					file.write(f"amount: {j['amount']}\n")
 					file.write(f"category :{j['category']}\n")
-					file.write(f"date :{j['date'']}\n")
+					file.write(f"date :{j['date']}\n")
 	else:
 		print("wrong choice enter again ")
