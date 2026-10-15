@@ -1,22 +1,4 @@
 {
-    "files": {
-        "33": {
-            "item name": "book",
-            "amount": 250,
-            "catagory": "books",
-            "date": "28/11/2007"
-        },
-        "20": {
-            "item name": "1bookd",
-            "amount": 100,
-            "catagory": "books",
-            "date": "11/11/2026"
-        },
-        "13": {
-            "item name": "phonr",
-            "amount": 100000,
-            "catagory": "mobile",
-            "date": "11/12/2025"
-        }
-    }
+    "files": {}
+
 }
